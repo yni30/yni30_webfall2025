@@ -1,0 +1,57 @@
+            body { 
+        background-color:gainsboro;
+            }
+        #green-text {
+            color:yellowgreen;
+        }
+
+        h2 {
+            text-align:center;
+            color:burlywood;
+        }
+
+        .test {
+
+            color:chocolate;
+            text-align:left;
+            font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        }
+        p.dotted {
+            outline-style:dotted;
+        }
+        .nav {
+            list-style:none;
+            text-align:center;
+
+        }
+        .nav li{
+            display:inline;
+            margin-right:20px;
+
+        }
+
+        .container {
+            background-color:lightskyblue;
+            margin-left:0 auto;
+            margin-right:0 auto;
+            border: 1px solid black;
+            padding:50px;
+        
+        }
+        .copy {
+            color:cornflowerblue;
+           image-rendering:pixelated;
+           image-rendering:crisp-edges;
+            text-align:center;
+            background-color:red;   
+                     
+        }
+       #span1 {
+        color:darkorchid;
+        font-family:"Bungee Spice";
+        font-size: 22px;
+       }
+       #span2 {
+        font-size:30px;
+       }
+    
