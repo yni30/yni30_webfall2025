@@ -1,0 +1,48 @@
+body{
+    background-color:gold;
+}
+.navigation{
+    list-style:none;
+    text-align:center;
+}
+
+.navigation li {
+    display:inline;
+    margin-right: 20px;
+}
+
+.container{
+    background-color:cornsilk;
+    margin-left:0 auto;
+    border:1px solid black;
+    margin-right:0 auto;
+    padding:30px;
+
+}
+
+#button1 {
+    background-color:green;
+    color:green;
+    border:5px solid greenyellow;
+
+}
+
+#button {
+    background-color:cadetblue;
+    color:darkgoldenrod;
+    border:5px solid blueviolet;
+}
+
+#button2 {
+    background-color:orange;
+    margin-top:5px;
+    border:5px solid yellow;
+}
+
+#button3 {
+    background-color:whitesmoke;
+    margin-top:5px;
+    border:5px solid black;
+    
+}
+
